@@ -12,7 +12,7 @@
 
 想看下效果图：
 
-![](bs.png)
+![](/photo/bs.png)
 
 
 我么进入正题：
@@ -20,7 +20,7 @@
 ###1.从fmod开发包中，引入动态库和jar包,头文件
 
 
-![](2.png)
+![](/photo/2.png)
 
 
 ###2.编写CMakeLists.txt文件
@@ -177,7 +177,7 @@ VoicerUtil:
 
 然后将头文件移动到cpp文件夹下：
 
-![](3.png)
+![](/photo/3.png)
 
 
 
